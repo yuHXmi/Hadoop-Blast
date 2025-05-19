@@ -1,7 +1,7 @@
 
-# SkinSight - Ứng dụng phân tích làn da
+# Parallel BLAST on Hadoop for cellines analysis
 
-## Nhóm thực hiện: [Title Card]
+## Nhóm thực hiện: 
 Trần Xuân Bảo - 23020332
 
 Hà Xuân Huy - 23030375
