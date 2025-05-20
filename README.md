@@ -18,3 +18,5 @@ Dự án này hướng tới việc triển khai một phiên bản song song c�
 - data_clustering/ # Các bước phân cụm dữ liệu
 - data_collection/ # Code thu thập dữ liệu và tập dữ liệu thu được
 - normal_BLAST/ # Các bước chạy BLAST truyền thống
+- Báo cáo bài tập lớn BigData 
+- Slide Bài tập lớn BigData
